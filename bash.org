@@ -1,0 +1,57 @@
+* Introduction
+** objectives
++ Explain how the shell relates to the keyboard, the screen, the operating system, and users’ programs.
++ Explain when and why command-line interfaces should be used instead of graphical interfaces.
+
+* Files and Directories
+** learning objectives
++ Explain the similarities and differences between a file and a directory.
++ Translate an absolute path into a relative path and vice versa.
++ Construct absolute and relative paths that identify specific files and directories.
++ Explain the steps in the shell’s read-run-print cycle.
++ Identify the actual command, flags, and filenames in a command-line call.
++ Demonstrate the use of tab completion, and explain its advantages.
+
+** notes
++ $
++ whoami
++ pwd
++ / (root)
++ /home/kyler (home directory)
++ ls
++ ls -F (add trailing '/' to directories)
++ relative vs absolute paths
++ cd
++ cd ..
++ tab completion
+* Creating Things
+** objectives
++ Create a directory hierarchy that matches a given diagram.
++ Create files in that hierarchy using an editor or by copying and renaming existing files.
++ Display the contents of a directory using the command line.
++ Delete specified files and/or directories.
+** notes
++ mkdir
++ nano thesis(or vi/emacs/notepad++/sublime)
++ rm (no undelete)
++ rm dir
++ rm -r
++ mv
+* Pipes and Filters
+** Learning Objectives
++ Redirect a command’s output to a file.
++ Process a file instead of keyboard input using redirection.
++ Construct command pipelines with two or more stages.
++ Explain what usually happens if a program or pipeline isn’t given any input to process.
++ Explain Unix’s “small pieces, loosely joined” philosophy.
+** notes
+
+
+
+
+*
+Service Request Number 	
+ZIP Code 	
+Ward 	
+Police District 	
+Community Area
